@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3c0HZLonz"
-#define BLYNK_TEMPLATE_NAME "VESTA IOT"
-#define BLYNK_AUTH_TOKEN "Mi1Gb9dn5cDlsJ2bwUZb6-s9tcpVhE48"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -11,8 +11,8 @@
 Servo myservo;
 
 /* WIFI */
-char ssid[] = "ATLAS";
-char pass[] = "admin123";
+char ssid[] = "";
+char pass[] = "";
 
 /* PINS */
 
